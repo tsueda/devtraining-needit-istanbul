@@ -5,43 +5,15 @@
             <element>comments</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 07:31:15</sys_created_on>
-            <sys_id>08e5b066db4332000cfd76efbf9619d9</sys_id>
+            <sys_created_on>2017-06-07 04:40:10</sys_created_on>
+            <sys_id>2eae75c4db1772000cfd76efbf961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">dfd5b066db4332000cfd76efbf961940</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 07:31:15</sys_updated_on>
+            <sys_updated_on>2017-06-07 04:40:10</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 07:31:15</sys_created_on>
-            <sys_id>88e5b066db4332000cfd76efbf9619d9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">dfd5b066db4332000cfd76efbf961940</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 07:31:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>activity.xml</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 07:31:15</sys_created_on>
-            <sys_id>0ce5b066db4332000cfd76efbf9619d9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">dfd5b066db4332000cfd76efbf961940</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 07:31:15</sys_updated_on>
-            <sys_user/>
-            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Log</caption>
@@ -67,7 +39,7 @@
             <sys_updated_on>2017-06-02 07:31:12</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="デフォルトビュー" name="NULL">Default view</view>
+            <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

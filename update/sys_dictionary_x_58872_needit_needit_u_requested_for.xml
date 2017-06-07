@@ -26,7 +26,7 @@
         <element>u_requested_for</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="参照">reference</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>true</mandatory>
         <max_length>32</max_length>
         <name>x_58872_needit_needit</name>
